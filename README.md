@@ -1,10 +1,11 @@
-# PROJECT TITLE
+# The Willy Games
 
 <img src="PATH/TO/PROJECT/LOGO" alt="PROJECT NAME logo" width="100"/>
 
-**PROJECT BRIEF DESCRIPTION**
+**Simple multiplayer student engagement project for UVU CET**
 
-![TECH STACK BADGE](https://img.shields.io/badge/TECH_STACK-BADGE-98ABCD)
+![Rust NUMBERHERE badge](https://img.shields.io/badge/Rust-NUMBERHERE-E33B26)
+![Rocket NUMBERHERE badge](https://img.shields.io/badge/Rocket-NUMBERHERE-D33847)
 
 DESCRIPTION HERE (explanation, what it solves, why its useful).
 
